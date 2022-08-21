@@ -1,0 +1,6 @@
+.vscode
+env
+venv
+__pycache__
+.idea
+*.py[cdo]              # Игнорировать все файлы с расширением pyc/pyd/pyo
